@@ -23,6 +23,6 @@ This app allows users to check the **current temperature**, **humidity**, **wind
 
 ### 🚀 Getting Started
 
-1. **Clone the repo**
+ **Preview**
    ```bash
    https://ankitkumaar01.github.io/Weather_App/
