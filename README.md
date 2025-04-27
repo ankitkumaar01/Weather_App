@@ -21,8 +21,11 @@ This app allows users to check the **current temperature**, **humidity**, **wind
 
 ---
 
-### 🚀 Getting Started
+🌍 Live Demo
+🔗 View Live Weather App
+(https://ankitkumaar01.github.io/Weather_App/)
 
- **Preview**
-   ```bash
-   https://ankitkumaar01.github.io/Weather_App/
+---
+
+🙌 Author
+Made with ❤️ by Ankit 
